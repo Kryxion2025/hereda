@@ -1,0 +1,25 @@
+COPYRIGHT NOTICE
+
+© 2026 Germán Durango López. All rights reserved.
+
+HEREDA (High-Efficiency RSA Extended Digital Algorithm) and its underlying
+algorithms, mathematical methods, and implementation architecture are
+proprietary trade secrets.
+
+The prime numbers and RSA key pairs contained in this repository are generated
+outputs provided for independent verification and demonstration purposes.
+Possession of these outputs does not convey any right, license, or claim to
+the underlying generation technology.
+
+The verification script (verify.py) is provided as a convenience for
+independent verification and may be freely used for that purpose.
+
+No part of this repository may be reproduced, distributed, or used for
+commercial purposes without prior written permission from the author.
+
+For licensing, partnership, or acquisition inquiries:
+
+    Germán Durango López
+    Creator & Principal Researcher — HEREDA
+    Colombia
+    hereda.kryxion@gmail.com
